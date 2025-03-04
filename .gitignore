@@ -1,0 +1,34 @@
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Logs
+logs
+*.log
+logs/*
+
+# Dependency directories
+bower_components/
+
+# Build artifacts
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Testing
+coverage/
+
+# Miscellaneous
+*.bak
+*.swp
